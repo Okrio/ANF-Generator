@@ -12,14 +12,14 @@ function x = mix_signals(n,DC,method)
 %       x      : M generated signals [L x M]
 %
 % Author       : E.A.P. Habets
-% Date         : 21-08-2009
+% Date         : 29-06-2017
 %
 % Reference    : E.A.P. Habets, I. Cohen and S. Gannot, 'Generating 
 %                nonstationary multisensor signals under a spatial 
 %                coherence constraint', Journal of the Acoustical Society
 %                of America, Vol. 124, Issue 5, pp. 2911-2917, Nov. 2008.
 
-% Copyright (C) 2009 E.A.P. Habets, United Kingdom.
+% Copyright (C) 2009-2017 E.A.P. Habets
 %  
 % This program is free software; you can redistribute it and/or modify
 % it under the terms of the GNU General Public License as published by
